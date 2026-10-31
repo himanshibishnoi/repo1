@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "project": "himanshibishnoi/repo1",
+  "signer": "himanshibishnoi",
+  "created_at": "2026-11-01T04:45:00Z",
+  "description": "WoT Cross-Link Node: Connects Account 2 into Account 3 and Account 1",
+  "vouches": [
+    "alice-dev",
+    "Jyotikesari"
+  ],
+  "denouncements": [
+    "phishing-actor-x"
+  ],
+  "trusted_peers": [
+    "himanshibishnoi/repo2",
+    "himanshibishnoi/repo3"
+  ],
+  "signature": "sha256:e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+}
