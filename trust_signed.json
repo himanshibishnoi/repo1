@@ -5,11 +5,9 @@
   "created_at": "2026-11-01T04:45:00Z",
   "description": "WoT Cross-Link Node: Connects Account 2 into Account 3 and Account 1",
   "vouches": [
-    "alice-dev",
-    "himanshibishnoi"
   ],
   "denouncements": [
-    "phishing-actor-x"
+    "himanshibishnoi"
   ],
   "trusted_peers": [
     "himanshibishnoi/repo2",
